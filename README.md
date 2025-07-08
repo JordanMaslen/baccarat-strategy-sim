@@ -47,9 +47,4 @@ Martingale Strategy - Avg P/L: -208.00, Highest: 1030, Lowest: 600
 ❌ Worst Strategy: Martingale with Avg P/L: -208.00
 
 
-baccarat-simulation/
-├── Baccarat_Simulation.py     # Main simulation logic
-└── README.md                  # Project overview and instructions
-
-
 
